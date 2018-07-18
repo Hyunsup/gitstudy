@@ -1,3 +1,4 @@
+release
 dev test3
 dev test2
 hot
