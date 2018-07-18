@@ -1,3 +1,6 @@
+release
+dev test3
+dev test2
 hot
 dev test
 release test
